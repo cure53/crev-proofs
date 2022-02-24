@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-24T13:49:38.632358711+01:00"
+from:
+  id-type: crev
+  id: 0hUWpC7FL4ImqfHj_y-ej2vx_Uk9fi3AHeM0a28jQyM
+  url: "https://github.com/cure53/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: xsalsa20poly1305
+  version: 0.8.0
+  revision: bce1657f3081e8d6ba29c8d49608ea8aeb294363
+  digest: 3HvtLKnU1v9ouLpK7uwbaBncfSngOk2MiKPZXdQFkeg
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  Cure53 audit report can be found here https://cure53.de/pentest-report_rust-libs_2022.pdf
+----- SIGN CREV PROOF -----
+sXUMgxdh40PowL9peOnyGOquewcnz7udLlyJwjRZ09zHvBAP_ug1rgug95PMnnXLSU3dtynjAlobwdRwf7lKDg
+----- END CREV PROOF -----
+
