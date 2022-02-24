@@ -22,3 +22,27 @@ comment: |-
 sXUMgxdh40PowL9peOnyGOquewcnz7udLlyJwjRZ09zHvBAP_ug1rgug95PMnnXLSU3dtynjAlobwdRwf7lKDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-02-24T13:51:32.802077225+01:00"
+from:
+  id-type: crev
+  id: 0hUWpC7FL4ImqfHj_y-ej2vx_Uk9fi3AHeM0a28jQyM
+  url: "https://github.com/cure53/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: crypto_box
+  version: 0.7.1
+  revision: a89e8f25d240bdfd3c1cb0dc61e2adca886f7154
+  digest: WfIk23RJzP_R9lX1Kat0-6lGjirfDWrlQipDkWy2GWQ
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  Cure53 audit report can be found here https://cure53.de/pentest-report_rust-libs_2022.pdf
+----- SIGN CREV PROOF -----
+yufaYHFW9Rt_yilMeWFg94gDQQKpODbvwFVf4-kysGHTT7bMGpX14BVTBaTdjbKLscFzdPk1B4X7ru5aa-eECQ
+----- END CREV PROOF -----
+
